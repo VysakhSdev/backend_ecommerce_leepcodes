@@ -33,7 +33,7 @@ Backend API for the Leepcode application.
     ```
 4. **Create your database in PostgreSQL and import the provided clean schema**
 
-   psql -U postgres -d leapcodes_db < ./doc/schema.sql
+   psql -U postgres -d db_name < ./doc/schema.sql
 
  5.  **Seed the superadmin data**
 
