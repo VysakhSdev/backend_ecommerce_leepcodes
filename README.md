@@ -1,4 +1,4 @@
-# Leepcode Backend
+# Leapcode Backend
 
 Backend API for the Leepcode application.
 
